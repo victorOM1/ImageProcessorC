@@ -1,0 +1,14 @@
+ImageProcessorC
+Este proyecto es una herramienta de procesamiento y manipulación de imágenes escrita en C. Permite realizar una variedad de operaciones sobre imágenes en los formatos BMP y PNM, tales como:
+* Separación de canales RGB.
+* Extracción de un canal específico (rojo, verde o azul).
+* Conversión a escala de grises.
+* Conversión a blanco y negro mediante umbralización (con umbral configurable).
+* Generación de histogramas para analizar la distribución de los valores de píxeles.
+* Mezcla de dos imágenes.
+Este programa está diseñado para ser un punto de partida en el procesamiento básico de imágenes, y puede ser fácilmente expandido para incluir más funcionalidades avanzadas, como filtros, transformaciones geométricas, o incluso interfaces gráficas.
+Características:
+* Compatible con imágenes BMP y PNM.
+* Implementación eficiente y directa en C.
+* Operaciones de manipulación de imágenes esenciales como separación de canales y conversión a blanco y negro.
+
